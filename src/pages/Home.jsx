@@ -39,6 +39,7 @@ const Home = () => {
                 customization tool. <strong>Unleash your imagination</strong>{" "}
                 and define your own style.
               </p>
+              {/* when clicking the button change the state. will no longer show the home page */}
               <CustomButton
                 type="filled"
                 title="Customize It"
